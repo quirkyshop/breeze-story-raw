@@ -1,0 +1,6 @@
+baseURL = "https://quirkyshop.github.io/breeze-story/"
+languageCode = "zh-cn"
+title = "微风志"
+author = "quirkyvar"
+disqusShortname = "quirkyvar"
+theme = "hugo-theme-minos"
